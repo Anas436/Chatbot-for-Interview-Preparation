@@ -13,7 +13,7 @@
 
 1. Clone the repository onto your local machine
 
-`git clone https://github.com/OmdenaAI/omdena-hyderabad-Chatbot-for-interview.git`
+`git clone https://github.com/Anas436/Chatbot-for-Interview-Preparation.git`
 
 2. Change directory to the newly cloned directory and run the following command to set up the required virtual environment using Conda
 
